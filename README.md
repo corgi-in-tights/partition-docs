@@ -1,2 +1,2 @@
 # partition-docs
-a documentation-engine built for heavy and multi-versioning
+a javascript library built to parse and version markdown templates into static html files
